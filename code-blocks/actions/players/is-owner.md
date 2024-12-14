@@ -39,7 +39,7 @@ game.Players.RobloxAndTyler
 
 #### AllowAuthorizedUsers (Bool)
 
-Includes players that have edit access to the game.
+Determines if the operation includes players that have edit access to the game.
 
 * [x] Can use Variable
 
