@@ -22,7 +22,7 @@ Checks if a player has received a badge or not.
 #### Available to
 
 * [x] Scripts
-* [x] LocalScripts
+* [ ] LocalScripts
 * [ ] Yields
 
 ## Inputs
