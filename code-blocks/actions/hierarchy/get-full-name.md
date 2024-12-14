@@ -1,5 +1,5 @@
 ---
-description: Changes collision status between two groups.
+description: Returns a string describing the object's ancestry.
 layout:
   title:
     visible: true
@@ -13,11 +13,11 @@ layout:
     visible: true
 ---
 
-# Collision Group Set Collidable
+# Get Full Name
 
 ## Description
 
-Changes collision status between two groups.
+Returns a string describing the object's ancestry.
 
 #### Available to
 
