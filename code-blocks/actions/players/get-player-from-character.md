@@ -44,7 +44,7 @@ game.Workspace.RobloxAndTyler
 #### Player (Object)
 
 The player that has the character provided.
-If this is nil, you are using an NPC.
+If this is nil, you used an NPC for your character input.
 
 ```
 game.Players.RobloxAndTyler
