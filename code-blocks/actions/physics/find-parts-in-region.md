@@ -49,7 +49,7 @@ The size of the region.
 
 #### FilterType (Choice)
 
-Determines how the region will detect its parts.
+Determines how the region will look for its parts.
 
 * [ ] Can use Variable
 
@@ -59,7 +59,7 @@ Blacklist
 
 #### FilterDescendantsTable (Table)
 
-The parts the region will look for.
+A list of parts the region will look for.
 
 * [ ] Can use Variable
 
