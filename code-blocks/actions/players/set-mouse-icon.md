@@ -31,6 +31,8 @@ Sets the mouse icon for the local player.
 
 The new mouse icon image of the player.
 
+* [x] Can use Variable
+
 ```
 rbxassetid://1234567890
 ```
