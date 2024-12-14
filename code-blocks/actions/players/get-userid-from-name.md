@@ -23,7 +23,7 @@ Gets a Roblox UserId from a Roblox username.
 
 * [x] Scripts
 * [x] LocalScripts
-* [ ] Yields
+* [x] Yields
 
 ## Inputs
 
