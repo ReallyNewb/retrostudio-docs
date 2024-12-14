@@ -31,6 +31,8 @@ Prevents a player from saying anything in the chat menu.
 
 The player who will be stopped from saying chat messages.
 
+* [x] Can use Variable
+
 ```
 game.Players.ExampleGuy
 ```
