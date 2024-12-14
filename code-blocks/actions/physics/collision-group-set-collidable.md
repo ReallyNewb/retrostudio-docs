@@ -51,6 +51,8 @@ WhitelistParts
 
 Whether or not every Part object in GroupName1 can be intersected with every part in GroupName2.
 
+* [x] Can use Variable
+
 ```
 False
 ```
