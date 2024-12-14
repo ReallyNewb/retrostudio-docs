@@ -27,7 +27,7 @@ Checks if a player is banned or not.
 
 ## Inputs
 
-#### UserId (Object)
+#### UserId (Number)
 
 The UserId, to check their ban status.
 
