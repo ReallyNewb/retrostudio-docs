@@ -13,13 +13,13 @@ layout:
     visible: true
 ---
 
-# Set Model PrimaryPart CFrame
+# Set Model Primary Part CFrame
 
 ## Description
 
 Moves a model to the given position with the PrimaryPart as the center.
 
-<mark style="color:orange;">Errors if the model doesn't have PrimaryPart!</mark>
+<mark style="color:orange;">Errors if the model doesn't have a PrimaryPart!</mark>
 
 #### Available to
 
@@ -39,24 +39,14 @@ You give the path to an object that you want to move.
 workspace.Tree
 ```
 
-#### Position (Vector3)
+#### CFrame (CFrame)
 
-Position the model is getting moved to.
-
-* [x] Can use Variable
-
-```
-0,50,0
-```
-
-#### Rotation (Vector3)
-
-Rotation the model will be rotated to.
+The CFrame of which the model will be pivoted to.
 
 * [x] Can use Variable
 
 ```
-180,80,45
+Position: 180, 45, 120 | Rotation: 180, 0, 0
 ```
 
 ## Outputs
