@@ -31,6 +31,8 @@ Gets a Roblox username from a Roblox User ID.
 
 The UserId that belongs to a Roblox user.
 
+* [x] Can use Variable
+
 ```
 1
 ```
