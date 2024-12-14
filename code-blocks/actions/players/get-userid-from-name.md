@@ -1,5 +1,5 @@
 ---
-description: Gets a username and outputs a user ID.
+description: Gets a Roblox UserId from a Roblox username.
 layout:
   title:
     visible: true
@@ -17,7 +17,7 @@ layout:
 
 ## Description
 
-Gets a username and outputs a user ID.
+Gets a Roblox UserId from a Roblox username.
 
 #### Available to
 
