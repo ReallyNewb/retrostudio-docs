@@ -27,7 +27,7 @@ Unbans a player from the game.
 
 ## Inputs
 
-#### UserId (Object)
+#### UserId (Number)
 
 The UserId who will be unbanned from the game.
 
