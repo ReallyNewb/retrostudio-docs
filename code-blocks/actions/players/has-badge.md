@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Get Player From Character
+# Has Badge
 
 ## Description
 
