@@ -28,9 +28,6 @@ There are various pages for code blocks. You can find them below.
 * [Destroy Object](actions/general/destroy-object.md)
 * [Clone Object](actions/general/clone-object.md)
 * [Is A](actions/general/is-a.md)
-* [Is Touching](actions/general/is-touching.md)
-* [Get Touching Parts](actions/general/get-touching-parts.md)
-* [Get Connected Parts](actions/general/get-connected-parts.md)
 
 #### Hierarchy
 
@@ -46,14 +43,21 @@ There are various pages for code blocks. You can find them below.
 
 #### Physics
 
-* [Make Joints](actions/physics/make-joints.md)
-* [Break Joints](actions/physics/break-joints.md)
-* [Set Part Network Owner](actions/physics/set-part-network-owner.md)
-* [Find Part On Ray](actions/physics/find-part-on-ray.md)
-* [Set Part Physical Properties](actions/physics/set-part-physical-properties.md)
-* [Get Part Physical Properties](actions/physics/get-part-physical-properties.md)
-* [Fire Rocket Propulsion](actions/physics/fire-rocket-propulsion.md)
-* [Abort Rocket Propulsion](actions/physics/abort-rocket-propulsion.md)
+* [Make Joints](code-blocks/actions/physics/make-joints.md)
+* [Break Joints](code-blocks/actions/physics/break-joints.md)
+* [Set Part Network Owner](code-blocks/actions/physics/set-part-network-owner.md)
+* [Find Part On Ray](code-blocks/actions/physics/find-part-on-ray.md)
+* [Find Parts In Region](code-blocks/actions/physics/find-parts-in-region.md)
+* [Set Part Physical Properties](code-blocks/actions/physics/set-part-physical-properties.md)
+* [Get Part Physical Properties](code-blocks/actions/physics/get-part-physical-properties.md)
+* [Fire Rocket Propulsion](code-blocks/actions/physics/fire-rocket-propulsion.md)
+* [Abort Rocket Propulsion](code-blocks/actions/physics/abort-rocket-propulsion.md)
+* [Is Touching](code-blocks/actions/physics/is-touching.md)
+* [Get Touching Parts](code-blocks/actions/physics/get-touching-parts.md)
+* [Get Connected Parts](code-blocks/actions/physics/get-connected-parts.md)
+* [Register Collision Group](code-blocks/actions/physics/register-collision-group.md)
+* [Assign Collision Group](code-blocks/actions/physics/assign-collision-group.md)
+* [Collision Group Set Collidable](code-blocks/actions/physics/collision-group-set-collidable.md)
 
 #### Models
 
@@ -72,6 +76,36 @@ There are various pages for code blocks. You can find them below.
 
 * [Create Leaderstat](actions/leaderstats/create-leaderstat.md)
 * [Get Leaderstat](actions/leaderstats/get-leaderstat.md)
+* [Set Leaderstat](code-blocks/actions/leaderstats/set-leaderstat.md)
+* [Add to Leaderstat](code-blocks/actions/leaderstats/add-to-leaderstat.md)
+* [Leaderstat Changed](code-blocks/actions/leaderstats/leaderstat-changed.md)
+
+#### GUI
+
+* [Tween GUI Size](code-blocks/actions/gui/tween-gui-size.md)
+* [Tween GUI Position](code-blocks/actions/gui/tween-gui-position.md)
+* [Set Core GUI Enabled](code-blocks/actions/gui/set-core-gui-enabled.md)
+* [Focus on TextBox](code-blocks/actions/gui/focus-on-textbox.md)
+* [Unfocus on TextBox](code-blocks/actions/gui/unfocus-on-textbox.md)
+
+#### Players
+
+* [Get Player From Character](code-blocks/actions/players/get-player-from-character.md)
+* [Get Players On Team](code-blocks/actions/players/get-players-on-team.md)
+* [Get User ID From Name](code-blocks/actions/players/get-userid-from-name.md)
+* [Get Name From User ID](code-blocks/actions/players/get-name-from-userid.md)
+* [Set Camera Position](code-blocks/actions/players/set-camera-position.md)
+* [Get Camera Position](code-blocks/actions/players/get-camera-position.md)
+* [Kick Player](code-blocks/actions/players/kick-player.md)
+* [Ban Player](code-blocks/actions/players/ban-player.md)
+* [Mute Player](code-blocks/actions/players/mute-player.md)
+* [Teleport to Place](code-blocks/actions/players/teleport-to-place.md)
+* [Give Badge](code-blocks/actions/players/give-badge.md)
+* [Has Badge](code-blocks/actions/players/has-badge.md)
+* [Has Gamepass](code-blocks/actions/players/has-gamepass.md)
+* [Set Mouse Icon](code-blocks/actions/players/set-mouse-icon.md)
+* [Is Player Banned](code-blocks/actions/players/is-player-banned.md)
+* [Unban Player](code-blocks/actions/players/unban-player.md)
 
 ## Input
 
