@@ -41,7 +41,7 @@ workspace
 
 #### ChildName (String)
 
-You give the block the Name of a object that you are looking for.
+You give the block the Name of an object that you are looking for.
 
 * [x] Can use Variable
 
@@ -51,7 +51,7 @@ Tree
 
 #### TimeOut (Number)
 
-
+You give the block the time it continues looking for ChildName in Parent.
 
 * [x] Can use Variable
 
