@@ -20,6 +20,7 @@ layout:
 Runs the connected blocks whenever the user jumps. For example, whenever the user presses the space key or the mobile jump button. Jump cooldowns **do not affect this event block.**
 
 [//]: <Is the mobile jump button supported? I wonder if that bug is fixed.>
+[//]: <Also, this block should be put in the keyboard section. We can't control jumps with the mouse...>
 
 #### Available to
 
