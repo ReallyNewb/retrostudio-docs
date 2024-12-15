@@ -1,5 +1,5 @@
 ---
-description: Returns a table of all of an objects children.
+description: Returns a table of all of an object's children.
 layout:
   title:
     visible: true
@@ -17,7 +17,7 @@ layout:
 
 ## Description
 
-Returns a table of all of an objects children.
+Returns a table of all of an object's children.
 
 #### Available to
 
@@ -41,7 +41,7 @@ workspace
 
 #### ChildrenTable (Table)
 
-You give the block the variable you want the objects table to be saved to.
+You give the block the variable you want the object's children table to be saved to.
 
 ```
 WorkspaceTable
