@@ -19,7 +19,7 @@ layout:
 
 ## Description
 
-Pivots a GUI to a specific position, easing, and time.
+Pivots a GUI to a specific position, with a set easing and time.
 
 #### Available to
 
