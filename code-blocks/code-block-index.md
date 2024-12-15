@@ -138,6 +138,7 @@ There are various pages for code blocks. You can find them below.
 
 * [Key Down](input/keyboard/key-down.md)
 * [Key Up](input/keyboard/key-up.md)
+* [User Jump Request](input/keyboard/user-jump-request.md)
 
 #### GUI
 
