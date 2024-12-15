@@ -46,6 +46,8 @@ game.Workspace.Zombie
 
 The amount of damage to deal to the Player.
 
+* [x] Can use Variable
+
 ```
 25
 ```
