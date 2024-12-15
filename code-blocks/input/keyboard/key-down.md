@@ -30,7 +30,7 @@ Runs the blocks connected to it when the given player starts holding down the sp
 
 #### Player (Object)
 
-You give the path to a Player.
+You give the path to a Player. *This input is only reserved for server scripts.*
 
 * [x] Can use Variable
 
