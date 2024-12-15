@@ -18,7 +18,7 @@ layout:
 
 ## Description
 
-Runs the blocks connected to it when the given player starts holding down their right mouse button.
+Runs the blocks connected to it when the given player starts holding down the specified key.
 
 #### Available to
 
