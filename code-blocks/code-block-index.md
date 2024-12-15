@@ -107,6 +107,18 @@ There are various pages for code blocks. You can find them below.
 * [Is Player Banned](actions/players/is-player-banned.md)
 * [Unban Player](actions/players/unban-player.md)
 
+#### Characters
+
+* [Load Character](actions/characters/load-character.md)
+* [Check Tool Equipped](actions/characters/check-tool-equipped.md)
+* [Take Damage](actions/characters/take-damage.md)
+* [Humanoid Move To](actions/characters/humanoid-move-to.md)
+* [Change Humanoid State](actions/characters/change-humanoid-state.md)
+* [Get Humanoid State](actions/characters/get-humanoid-state.md)
+* [Teleport Player To Position](actions/characters/teleport-player-to-position.md)
+* [Compute Path](actions/characters/compute-path.md)
+* [Dialog Chat](actions/characters/dialog-chat.md)
+
 ## Input
 
 #### Mouse
