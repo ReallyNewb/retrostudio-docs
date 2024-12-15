@@ -22,7 +22,7 @@ This block works a lot like `HttpService:JSONDecode(table)`. It turns the given 
 #### Available to
 
 * [x] Scripts
-* [ ] LocalScripts
+* [x] LocalScripts
 * [ ] Yields
 
 ## Inputs
