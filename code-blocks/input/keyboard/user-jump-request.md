@@ -17,14 +17,12 @@ layout:
 
 ## Description
 
-Runs the connected blocks whenever the user jumps.
+Runs the connected blocks whenever the user jumps. For example, whenever the user presses the space key or the mobile jump button. Jump cooldowns **do not affect this event block.**
+
+[//]: <Is the mobile jump button supported? I wonder if that bug is fixed.>
 
 #### Available to
 
 * [ ] Scripts
 * [x] LocalScripts
 * [ ] Yields
-
-## Inputs
-
-No inputs nor outputs.
