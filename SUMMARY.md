@@ -102,6 +102,7 @@
     * [Keyboard](code-blocks/input/keyboard/README.md)
       * [Key Down](input/keyboard/key-down.md)
       * [Key Up](input/keyboard/key-up.md)
+      * [User Jump Request](input/keyboard/user-jump-request.md)
     * [GUI](code-blocks/input/gui/README.md)
       * [GUI Mouse Enter](input/gui/gui-mouse-enter.md)
       * [GUI Mouse Leave](input/gui/gui-mouse-leave.md)
