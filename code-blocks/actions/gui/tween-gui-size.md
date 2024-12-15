@@ -19,7 +19,7 @@ layout:
 
 ## Description
 
-Resizes a GUI to a specific size, easing, and time.
+Resizes a GUI to a specific size, with a set easing and time.
 
 #### Available to
 
