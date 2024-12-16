@@ -29,7 +29,7 @@ Checks if an event connection is connected.
 
 #### EventConnection (EventConnection)
 
-The event connection whose connection status will be checked.
+The event connection variable whose connection status will be checked.
 
 ```
 MouseClickEvent
@@ -39,7 +39,7 @@ MouseClickEvent
 
 #### Result (Bool)
 
-Determines whether or not if the event is still connected.
+Determines whether or not if the event connection is still connected.
 
 ```
 True
