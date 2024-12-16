@@ -87,6 +87,11 @@
       * [Compute Path](code-blocks/actions/characters/compute-path.md)
       * [Dialog Chat](code-blocks/actions/characters/dialog-chat.md)
 
+  * [Events](code-blocks/events/README.md)
+    * [Events](code-blocks/connections/README.md)
+      * [Disconnect Event](code-blocks/connections/disconnect-event.md)
+      * [Is Connected](code-blocks/connections/is-connected.md)
+
   * [Input](code-blocks/input/README.md)
     * [Mouse](code-blocks/input/mouse/README.md)
       * [Click Detector Interaction](code-blocks/input/mouse/click-detector-interaction.md)
