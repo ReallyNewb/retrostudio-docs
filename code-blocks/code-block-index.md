@@ -119,6 +119,13 @@ There are various pages for code blocks. You can find them below.
 * [Compute Path](actions/characters/compute-path.md)
 * [Dialog Chat](actions/characters/dialog-chat.md)
 
+## Events
+
+#### Events
+
+* [Disconnect Event](events/connections/disconnect-event.md)
+* [Is Connected](events/connections/is-connected.md)
+
 ## Input
 
 #### Mouse
