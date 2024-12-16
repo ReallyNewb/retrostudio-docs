@@ -29,7 +29,7 @@ Disconnects an event by its EventConnection output.
 
 #### EventConnection (EventConnection)
 
-The event connection that will be disconnected.
+The event connection variable that will be disconnected.
 
 ```
 MouseClickEvent
