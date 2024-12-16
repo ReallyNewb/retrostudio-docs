@@ -13,11 +13,11 @@ layout:
     visible: true
 ---
 
-# Is game loaded
+# Is Game Loaded
 
 ## Description
 
-Returns a bool based on whether or not the game has loaded..
+Returns a bool based on whether or not the game has loaded.
 
 #### Available to
 
@@ -31,5 +31,3 @@ Returns a bool based on whether or not the game has loaded..
 #### Answer
 
 Outputs a bool value if the game has loaded. Works in studio as well.
-
-* [ ] Can use Variable
