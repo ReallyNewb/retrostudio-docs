@@ -44,5 +44,5 @@ Workspace.Model
 The returned descendant variable.
 
 ```
-cleaned (Workspace.Model.Cleanup.Object1)
+Workspace.Model.Cleanup.Object1
 ```
