@@ -41,8 +41,8 @@ Workspace.Model
 
 #### Child (Object)
 
-The returned child.
+The returned child variable.
 
 ```
-Workspace.Model.Settings
+settings (Workspace.Model.Settings)
 ```
