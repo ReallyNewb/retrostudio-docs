@@ -44,5 +44,5 @@ Workspace.Model
 The returned child variable.
 
 ```
-settingsTemplate (Workspace.Model.TemplateSettings)
+Workspace.Model.TemplateSettings
 ```
