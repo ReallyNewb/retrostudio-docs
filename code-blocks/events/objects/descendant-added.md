@@ -44,5 +44,5 @@ Workspace.Model
 The returned descendant variable.
 
 ```
-operationScript (Workspace.Model.Scripts.Operations.OperationScript1)
+Workspace.Model.Scripts.Operations.OperationScript1
 ```
