@@ -126,6 +126,15 @@ There are various pages for code blocks. You can find them below.
 * [Disconnect Event](events/connections/disconnect-event.md)
 * [Is Connected](events/connections/is-connected.md)
 
+#### Objects
+
+* [Child Added](events/objects/child-added.md)
+* [Child Removed](events/objects/child-removed.md)
+* [Descendant Added](events/objects/descendant-added.md)
+* [Descendant Removed](events/objects/descendant-removed.md)
+* [Property Changed](events/objects/property-changed.md)
+* [Any Property Changed](events/objects/any-property-changed.md)  
+
 ## Input
 
 #### Mouse
