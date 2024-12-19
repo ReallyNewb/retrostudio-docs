@@ -44,5 +44,5 @@ Workspace.Model
 The returned child variable.
 
 ```
-settings (Workspace.Model.Settings)
+Workspace.Model.Settings
 ```
