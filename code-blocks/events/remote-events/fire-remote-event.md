@@ -18,7 +18,7 @@ layout:
 ## Description
 
 Fires a RemoteEvent to its handling client/server. 
-<mark style="color:orange;">Strings sent from server-handled event objects will always be filtered!</mark>
+<mark style="color:orange;">Strings sent from the client to server-handled event objects will always be filtered!</mark>
 
 #### Available to
 
