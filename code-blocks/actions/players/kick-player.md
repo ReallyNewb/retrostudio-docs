@@ -34,7 +34,7 @@ The player who will be kicked from the game.
 * [x] Can use Variable
 
 ```
-game.Players.IMakeRetrobuxFreeGames
+game.Players.ExploiterAccount
 ```
 
 #### Reason (String)
@@ -44,5 +44,5 @@ The reason for the player's ban.
 * [x] Can use Variable
 
 ```
-Hello. I've seen you are making Retrobux Free games, please change your name and you will be allowed back in my game. Sincerely, RetroBuxFreeGamesHater
+Banned for exploiting via fling exploit
 ```
