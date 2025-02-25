@@ -17,7 +17,7 @@ layout:
 
 ## Description
 
-Gets the current value of a players leaderstat.
+Gets the current value of a specific player's leaderstat.
 
 #### Available to
 
@@ -29,7 +29,7 @@ Gets the current value of a players leaderstat.
 
 #### Player (Object)
 
-Player that you want to get the leaderstat from.
+The player that you want to get the leaderstat value from.
 
 * [x] Can use Variable
 
@@ -39,7 +39,7 @@ game.Players.Roblox
 
 #### StatName (String)
 
-Name of the stat you want to get from the leaderstat.
+Name of the leaderstat that you want to get from the player.
 
 * [x] Can use Variable
 
@@ -51,7 +51,7 @@ Coins
 
 #### Value (Number)
 
-Returns the current leaderstats value of the given player,
+Returns the current value of the provided player's StatName.
 
 ```
 CurrentPlayerCoins
