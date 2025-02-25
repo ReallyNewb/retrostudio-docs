@@ -39,10 +39,10 @@ game.Players.ExploiterAccount
 
 #### Reason (String)
 
-The reason for the player's ban.
+The reason for the player's kick.
 
 * [x] Can use Variable
 
 ```
-Banned for exploiting via fling exploit
+Kicked for Rule #1: No fling exploits allowed.
 ```
