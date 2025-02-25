@@ -31,8 +31,6 @@ Retrieves the camera position and rotation for the local player.
 
 The position of the camera.
 
-* [x] Can use Variable
-
 ```
 100, 200.4, 0
 ```
@@ -40,8 +38,6 @@ The position of the camera.
 #### Rotation (Vector3)
 
 The rotation of the camera.
-
-* [x] Can use Variable
 
 ```
 90, 180, 0
