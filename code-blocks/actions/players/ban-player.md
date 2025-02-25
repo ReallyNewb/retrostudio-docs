@@ -34,5 +34,5 @@ The player who will be banned from playing the game.
 * [x] Can use Variable
 
 ```
-game.Players.ExampleGuy
+game.Players.ExploiterAccount
 ```
