@@ -34,5 +34,5 @@ The target TextBox that the local player will stop focusing / typing in.
 * [x] Can use Variable
 
 ```
-game.StarterGui.FreeRetrobux.PasswordInput
+game.StarterGui.MyGui.MyTextbox
 ```
