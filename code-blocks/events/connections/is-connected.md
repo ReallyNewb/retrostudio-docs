@@ -1,5 +1,5 @@
 ---
-description: Checks if an event is connected.
+description: Checks if an event connection is connected.
 layout:
   title:
     visible: true
@@ -42,5 +42,5 @@ MouseClickEvent
 Determines whether or not if the event connection is still connected.
 
 ```
-True
+true
 ```
