@@ -1,6 +1,6 @@
 ---
 description: >-
-  Runs the blocks connected to it when the given player starts holding down the specified key.
+  Runs the blocks connected to it when the given player starts pressing a key.
 layout:
   title:
     visible: true
@@ -18,7 +18,7 @@ layout:
 
 ## Description
 
-Runs the blocks connected to it when the given player starts holding down the specified key.
+Runs the blocks connected to it when the given player starts pressing a key.
 
 #### Available to
 
@@ -30,7 +30,7 @@ Runs the blocks connected to it when the given player starts holding down the sp
 
 #### Player (Object)
 
-You give the path to a Player. *This input is only reserved for server scripts.*
+You give the path to a Player.
 
 * [x] Can use Variable
 
