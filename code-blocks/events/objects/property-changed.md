@@ -37,6 +37,16 @@ The object that the event will be looking for property changes in.
 Workspace.GameStarted
 ```
 
+#### Property (String)
+
+The object property the event will be looking for property changes in.
+
+* [x] Can use Variable
+
+```
+Value
+```
+
 ## Outputs
 
 #### NewValue (Bool)
@@ -44,5 +54,5 @@ Workspace.GameStarted
 The new value of the property.
 
 ```
-True
+true
 ```
