@@ -52,5 +52,5 @@ Anchored
 The new value of the property.
 
 ```
-True
+true
 ```
